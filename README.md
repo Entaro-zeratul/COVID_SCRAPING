@@ -1,2 +1,2 @@
-# COVID_SCRAPING
-How to scrap covid
+# 코로나 스크랩핑
+코로나 확진자 데이터를 가져오는 방법을 배운다.
